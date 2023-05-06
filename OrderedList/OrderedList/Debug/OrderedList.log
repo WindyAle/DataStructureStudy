@@ -1,0 +1,4 @@
+﻿  OrderedList.cpp
+C:\Users\R88N5CV\source\repos\OrderedList\OrderedList\OrderedList.cpp(121,1): error C2059: 구문 오류: '=='
+C:\Users\R88N5CV\source\repos\OrderedList\OrderedList\OrderedList.cpp(127,12): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\R88N5CV\source\repos\OrderedList\OrderedList\OrderedList.cpp(127,12): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
